@@ -27,3 +27,4 @@ Ajuste de altura (Z) com precisão
 Interface simples e intuitiva
 
 Ideal para desenvolvimento de scripts e mapeamento
+<img width="1192" height="863" alt="image" src="https://github.com/user-attachments/assets/b631a6ba-1660-4a19-9278-8790f452b41c" />
